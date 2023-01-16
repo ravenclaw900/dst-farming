@@ -1,0 +1,10 @@
+[package]
+name = "dst-farming"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ansi_term = "0.12.1"
+anyhow = "1.0.64"
+dialoguer = { version = "0.10.2", default-features = false }
+fastrand = "1.8.0"
